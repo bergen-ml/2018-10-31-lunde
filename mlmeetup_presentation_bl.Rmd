@@ -1,11 +1,11 @@
 ---
 title: "Information efficient gradient tree boosting"
-author: "Berent Ånund Strømnes Lunde"
+author: "Berent ?nund Str?mnes Lunde"
 date: "31 October 2018"
 output:
+  beamer_presentation: default
   ioslides_presentation:
     smaller: yes
-  beamer_presentation: default
 self_contained: yes
 bibliography: mlmeetup_bib.bib
 ---
